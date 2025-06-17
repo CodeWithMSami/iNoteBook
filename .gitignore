@@ -1,0 +1,73 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VSCode settings
+.vscode/
+
+# parcel-bundler cache
+.cache
+
+# typescript
+*.tsbuildinfo
+
+# Mac system files
+Icon?
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Linux trash
+.Trash-*
+
+# JetBrains IDEs
+.idea/
+
+# SASS cache
+.sass-cache
+
+# log files
+*.log
+
+# vite cache
+/.vite
+
+# firebase
+.firebase/
+
+# local SSL certificates
+*.pem
+
+# React Native stuff (if applicable)
+/ios/Pods
+android/.gradle
+
+# Optional: ignore local development server certificates
+*.crt
+*.key
+node_modules
+node_modules
+node_modules
