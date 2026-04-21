@@ -1,13 +1,26 @@
-# My React App
+# iNoteBook
 
-This is a simple React app created from scratch using Webpack, Babel, and React.
+iNoteBook is a React application to store and manage your personal notes. It is built from scratch using Webpack and Babel.
 
-## Available Scripts
+## Features
 
-- **npm start**: Run the app in development mode.
-- **npm run build**: Build the app for production.
+- 📝 Add and store notes
+- ⚛️ Built with React
+- 🔧 Custom Webpack + Babel setup (no Create React App)
 
-## Structure
+## Tech Stack
 
-- **src/**: Contains all React components and styles.
-- **public/**: Contains the HTML file.
+- React
+- Webpack
+- Babel
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+## Quick Start
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/CodeWithMSami/iNoteBook.git
+cd iNoteBook
+npm install
